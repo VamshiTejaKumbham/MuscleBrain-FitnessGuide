@@ -1,0 +1,374 @@
+[
+  {
+    "name": "Pull-ups",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "Biceps",
+    "description": "Pull-ups are a classic bodyweight exercise that primarily targets the muscles of the back, specifically the latissimus dorsi, while also engaging the biceps and shoulders. They are excellent for building upper body strength and improving pulling strength.",
+    "howToPerform": "<br>1. Grip an overhead bar with your hands slightly wider than shoulder-width apart, palms facing away from you.<br>2. Hang with your arms fully extended and your body straight.<br>3. Pull yourself up by driving your elbows down and back until your chin clears the bar.<br>4. Lower yourself back down with control until your arms are fully extended.<br>5. Repeat for the desired number of repetitions.",
+    "equipmentNeeded": "No Equipment"
+  },
+  {
+    "name": "Bent Over Rows",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "Biceps",
+    "description": "Bent over rows are a compound exercise that targets the muscles of the upper back, including the rhomboids, traps, and rear deltoids, as well as the biceps. They are effective for building strength and muscle mass in the back.",
+    "howToPerform": "<br>1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with palms facing your body.<br>2. Hinge at the hips to bend forward until your torso is nearly parallel to the ground, keeping your back straight.<br>3. Pull the dumbbells towards your lower ribcage by bending your elbows and squeezing your shoulder blades together.<br>4. Slowly lower the dumbbells back to the starting position.<br>5. Repeat for the desired number of repetitions.",
+    "equipmentNeeded": "Dumbbells"
+  },
+  {
+    "name": "Inverted Rows",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "Biceps",
+    "description": "Inverted rows, also known as bodyweight rows, are an effective exercise for targeting the muscles of the upper back, including the latissimus dorsi, rhomboids, and traps, as well as the biceps. They can be performed using a bar, suspension trainer, or rings.",
+    "howToPerform": "<br>1. Set up a bar or suspension trainer at waist height.<br>2. Grab the bar with an overhand grip, hands slightly wider than shoulder-width apart, and hang underneath it with your heels on the ground and your body in a straight line.<br>3. Pull your chest towards the bar by squeezing your shoulder blades together and bending your elbows.<br>4. Lower yourself back down to the starting position with control.<br>5. Repeat for the desired number of repetitions.",
+    "equipmentNeeded": "No Equipment"
+  },
+  {
+    "name": "Barbell Rows",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "Biceps",
+    "description": "Barbell rows are a compound exercise that targets the muscles of the upper back, including the latissimus dorsi, rhomboids, and traps, as well as the biceps. They are effective for building strength and muscle mass in the back.",
+    "howToPerform": "<br>1. Stand with your feet shoulder-width apart, holding a barbell with an overhand grip, hands slightly wider than shoulder-width apart.<br>2. Hinge at the hips to bend forward until your torso is nearly parallel to the ground, keeping your back straight.<br>3. Pull the barbell towards your lower ribcage by bending your elbows and squeezing your shoulder blades together.<br>4. Slowly lower the barbell back to the starting position.<br>5. Repeat for the desired number of repetitions.",
+    "equipmentNeeded": "Barbell / EZ-Bar"
+  },
+  {
+    "name": "Dumbbell Rows",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "Biceps",
+    "description": "Dumbbell rows are a unilateral exercise that targets the muscles of the upper back, including the latissimus dorsi, rhomboids, and traps, as well as the biceps. They are effective for improving back strength and muscle balance.",
+    "howToPerform": "<br>1. Stand with your feet hip-width apart, holding a dumbbell in each hand with palms facing your body.<br>2. Hinge at the hips to bend forward until your torso is nearly parallel to the ground, keeping your back straight.<br>3. Pull one dumbbell towards your lower ribcage by bending your elbow and squeezing your shoulder blade.<br>4. Lower the dumbbell back to the starting position with control.<br>5. Repeat on the other side and continue alternating for the desired number of repetitions.",
+    "equipmentNeeded": "Dumbbells"
+  },
+  {
+    "name": "Superman Exercise",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "Glutes",
+    "description": "The superman exercise is a bodyweight exercise that targets the muscles of the lower back, as well as the glutes and hamstrings. It helps to strengthen the posterior chain and improve spinal stability.",
+    "howToPerform": "<br>1. Lie face down on the floor with your arms extended overhead and legs straight.<br>2. Engage your core and lift your arms, chest, and legs off the ground simultaneously, aiming to create a 'flying' position.<br>3. Hold for a moment, then lower back down with control.<br>4. Repeat for the desired number of repetitions.",
+    "equipmentNeeded": "No Equipment"
+  },
+  {
+    "name": "Renegade Rows",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "Core",
+    "description": "Renegade rows are a compound exercise that targets the muscles of the upper back, including the latissimus dorsi, rhomboids, and traps, as well as the core muscles. They are effective for building strength and stability throughout the body.",
+    "howToPerform": "<br>1. Start in a plank position with a dumbbell in each hand, wrists directly under shoulders.<br>2. Keeping your body in a straight line, row one dumbbell towards your ribcage by bending your elbow and squeezing your shoulder blade.<br>3. Lower the dumbbell back to the ground with control and repeat on the other side.<br>4. Continue alternating sides for the desired number of repetitions.",
+    "equipmentNeeded": "Dumbbells"
+  },
+  {
+    "name": "Wide Grip Seated Cable Rows",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "Biceps",
+    "description": "Wide grip seated cable rows are an effective exercise for targeting the muscles of the upper back, including the latissimus dorsi, rhomboids, and traps, as well as the biceps. They allow for greater range of motion and variation compared to traditional barbell rows.",
+    "howToPerform": "<br>1. Sit at a cable row machine with your feet on the footplates, knees slightly bent, and back straight.<br>2. Grab the handles with an overhand grip, hands wider than shoulder-width apart.<br>3. Pull the handles towards your lower ribcage by squeezing your shoulder blades together and bending your elbows.<br>4. Slowly release the handles back to the starting position.<br>5. Repeat for the desired number of repetitions.",
+    "equipmentNeeded": "Cable Machine"
+  },
+  {
+    "name": "Single-Arm Dumbbell Rows",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "Biceps",
+    "description": "Single-arm dumbbell rows are a unilateral exercise that targets the muscles of the upper back, including the latissimus dorsi, rhomboids, and traps, as well as the biceps. They are effective for improving back strength and muscle balance.",
+    "howToPerform": "<br>1. Stand with your feet hip-width apart, holding a dumbbell in one hand with your palm facing your body.<br>2. Hinge at the hips to bend forward until your torso is nearly parallel to the ground, keeping your back straight.<br>3. Pull the dumbbell towards your lower ribcage by bending your elbow and squeezing your shoulder blade.<br>4. Lower the dumbbell back to the starting position with control.<br>5. Repeat on the other side and continue alternating for the desired number of repetitions.",
+    "equipmentNeeded": "Dumbbells"
+  },
+  {
+    "name": "Pendlay Rows",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "Biceps",
+    "description": "Pendlay rows are a variation of the barbell row that primarily target the muscles of the upper back, including the latissimus dorsi, rhomboids, and traps, as well as the biceps. They are performed from a dead stop position on the ground.",
+    "howToPerform": "<br>1. Set up a barbell on the ground with plates and stand with your feet shoulder-width apart, toes under the bar.<br>2. Hinge at your hips to grip the barbell with an overhand grip, hands slightly wider than shoulder-width apart.<br>3. Brace your core, keep your chest up, and lift the barbell by straightening your hips and knees.<br>4. Pull the barbell towards your lower ribcage by bending your elbows and squeezing your shoulder blades together.<br>5. Lower the barbell back to the ground by bending at your hips and knees.<br>6. Repeat for the desired number of repetitions.",
+    "equipmentNeeded": "Barbell / EZ-Bar"
+  },
+  {
+    "name": "Machine Rows",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "Biceps",
+    "description": "Machine rows are a resistance machine exercise that targets the muscles of the upper back, including the latissimus dorsi, rhomboids, and traps, as well as the biceps. They provide a guided motion and are suitable for beginners or those with limited mobility.",
+    "howToPerform": "<br>1. Sit at a row machine with your feet on the footplates, knees slightly bent, and back straight.<br>2. Grab the handles with an overhand grip, hands shoulder-width apart.<br>3. Pull the handles towards your lower ribcage by squeezing your shoulder blades together and bending your elbows.<br>4. Slowly release the handles back to the starting position.<br>5. Repeat for the desired number of repetitions.",
+    "equipmentNeeded": "Cable Machine"
+  },
+    {
+      "name": "Lat Pulldowns",
+      "primaryMuscle": "Back",
+      "secondaryMuscle": "Biceps",
+      "description": "Lat pulldowns are a popular exercise for targeting the muscles of the upper back, specifically the latissimus dorsi, while also engaging the biceps. They are performed using a cable machine with a high pulley attachment.",
+      "howToPerform": "<br>1. Sit at a lat pulldown machine with your thighs secured under the pads, back straight, and feet flat on the ground.<br>2. Grab the bar with an overhand grip, hands slightly wider than shoulder-width apart.<br>3. Pull the bar down towards your chest by squeezing your shoulder blades together and bending your elbows.<br>4. Slowly release the bar back to the starting position, fully extending your arms.<br>5. Repeat for the desired number of repetitions.",
+      "equipmentNeeded": "Cable Machine"
+    },
+    {
+      "name": "Face Pulls",
+      "primaryMuscle": "Back",
+      "secondaryMuscle": "Rear Delts",
+      "description": "Face pulls are an effective exercise for targeting the muscles of the upper back, including the rear delts, traps, and rhomboids. They are performed using a cable machine with a rope attachment.",
+      "howToPerform": "<br>1. Attach a rope to a cable machine at shoulder height.<br>2. Stand facing the cable machine with feet shoulder-width apart, holding the ends of the rope with palms facing each other.<br>3. Pull the rope towards your face by squeezing your shoulder blades together and externally rotating your shoulders.<br>4. Keep your elbows high and above shoulder level throughout the movement.<br>5. Slowly release the rope back to the starting position.<br>6. Repeat for the desired number of repetitions.",
+      "equipmentNeeded": "Cable Machine"
+    },
+    {
+      "name": "Good Mornings",
+      "primaryMuscle": "Back",
+      "secondaryMuscle": "Hamstrings",
+      "description": "Good mornings are a compound exercise that primarily targets the muscles of the lower back, including the erector spinae, while also engaging the hamstrings and glutes. They are performed using a barbell.",
+      "howToPerform": "<br>1. Stand with your feet shoulder-width apart, holding a barbell across your upper back, resting on your trapezius muscles.<br>2. Keeping your back straight and core engaged, hinge at the hips to bend forward until your torso is parallel to the ground.<br>3. Keep a slight bend in your knees throughout the movement.<br>4. Drive through your heels and squeeze your glutes to return to the starting position.<br>5. Repeat for the desired number of repetitions.",
+      "equipmentNeeded": "Barbell / EZ-Bar"
+    },
+      {
+        "name": "Push-ups",
+        "primaryMuscle": "Chest",
+        "secondaryMuscle": "Triceps",
+        "description": "Push-ups are a great bodyweight exercise that primarily targets the chest muscles while also engaging the triceps and shoulders. They are effective for building upper body strength and endurance.",
+        "howToPerform": "<br>1. Start in a plank position with your hands slightly wider than shoulder-width apart.<br>2. Lower your body by bending your elbows until your chest nearly touches the ground.<br>3. Push yourself back up to the starting position by straightening your arms.<br>4. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "No Equipment"
+      },
+      {
+        "name": "Diamond Push-ups",
+        "primaryMuscle": "Chest",
+        "secondaryMuscle": "Triceps",
+        "description": "Diamond push-ups, also known as close-grip push-ups, target the chest muscles with an emphasis on the inner chest. They also engage the triceps and shoulders.",
+        "howToPerform": "<br>1. Start in a plank position with your hands close together, forming a diamond shape with your index fingers and thumbs.<br>2. Lower your body by bending your elbows until your chest nearly touches your hands.<br>3. Push yourself back up to the starting position by straightening your arms.<br>4. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "No Equipment"
+      },
+      {
+        "name": "Chest Dips",
+        "primaryMuscle": "Chest",
+        "secondaryMuscle": "Triceps",
+        "description": "Chest dips are a bodyweight exercise that primarily targets the chest muscles while also engaging the triceps and shoulders. They provide a great stretch and contraction for the chest.",
+        "howToPerform": "<br>1. Position yourself on parallel bars with your arms fully extended and your body suspended in the air.<br>2. Lower your body by bending your elbows until your upper arms are parallel to the ground.<br>3. Push yourself back up to the starting position by straightening your arms.<br>4. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "No Equipment"
+      },
+      {
+        "name": "Incline Push-ups",
+        "primaryMuscle": "Chest",
+        "secondaryMuscle": "Triceps",
+        "description": "Incline push-ups target the upper chest muscles while also engaging the triceps and shoulders. They are performed with the hands elevated on a surface, such as a bench or step.",
+        "howToPerform": "<br>1. Place your hands on a raised surface, such as a bench or step, slightly wider than shoulder-width apart.<br>2. Position your feet on the ground with your body in a straight line from head to heels.<br>3. Lower your body by bending your elbows until your chest nearly touches the elevated surface.<br>4. Push yourself back up to the starting position by straightening your arms.<br>5. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "No Equipment"
+      },
+      {
+        "name": "Barbell Bench Press",
+        "primaryMuscle": "Chest",
+        "secondaryMuscle": "Triceps",
+        "description": "The barbell bench press is a compound exercise that targets the chest muscles, with an emphasis on the middle and lower chest, while also engaging the triceps and shoulders. It is a staple exercise in strength training.",
+        "howToPerform": "<br>1. Lie on a flat bench with your feet flat on the ground and your eyes aligned with the barbell.<br>2. Grip the barbell with hands slightly wider than shoulder-width apart, palms facing away from you.<br>3. Lower the barbell to your chest by bending your elbows, keeping your wrists straight and elbows at a 45-degree angle to your body.<br>4. Press the barbell back up to the starting position by straightening your arms.<br>5. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "Barbell / EZ-Bar"
+      },
+      {
+        "name": "Incline Barbell Bench Press",
+        "primaryMuscle": "Chest",
+        "secondaryMuscle": "Triceps",
+        "description": "The incline barbell bench press targets the upper chest muscles while also engaging the triceps and shoulders. It is performed on an incline bench with the bench set to a 30-45 degree angle.",
+        "howToPerform": "<br>1. Lie on an incline bench with your feet flat on the ground and your eyes aligned with the barbell.<br>2. Grip the barbell with hands slightly wider than shoulder-width apart, palms facing away from you.<br>3. Lower the barbell to your upper chest by bending your elbows, keeping your wrists straight and elbows at a 45-degree angle to your body.<br>4. Press the barbell back up to the starting position by straightening your arms.<br>5. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "Barbell / EZ-Bar"
+      },
+      {
+        "name": "Decline Barbell Bench Press",
+        "primaryMuscle": "Chest",
+        "secondaryMuscle": "Triceps",
+        "description": "The decline barbell bench press targets the lower chest muscles while also engaging the triceps and shoulders. It is performed on a decline bench with the bench set to a downward angle.",
+        "howToPerform": "<br>1. Lie on a decline bench with your feet secured and your eyes aligned with the barbell.<br>2. Grip the barbell with hands slightly wider than shoulder-width apart, palms facing away from you.<br>3. Lower the barbell to your lower chest by bending your elbows, keeping your wrists straight and elbows at a 45-degree angle to your body.<br>4. Press the barbell back up to the starting position by straightening your arms.<br>5. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "Barbell / EZ-Bar"
+      },
+      {
+        "name": "Dumbbell Bench Press",
+        "primaryMuscle": "Chest",
+        "secondaryMuscle": "Triceps",
+        "description": "The dumbbell bench press is a compound exercise that targets the chest muscles, with an emphasis on stabilizing muscles, while also engaging the triceps and shoulders. It allows for greater range of motion compared to the barbell bench press.",
+        "howToPerform": "<br>1. Lie on a flat bench with a dumbbell in each hand, palms facing away from you, and arms fully extended above your chest.<br>2. Lower the dumbbells to your chest by bending your elbows, keeping your wrists straight and elbows at a 45-degree angle to your body.<br>3. Press the dumbbells back up to the starting position by straightening your arms.<br>4. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "Dumbbells"
+      },
+      {
+        "name": "Incline Dumbbell Bench Press",
+        "primaryMuscle": "Chest",
+        "secondaryMuscle": "Triceps",
+        "description": "The incline dumbbell bench press targets the upper chest muscles while also engaging the triceps and shoulders. It is performed on an incline bench with the bench set to a 30-45 degree angle.",
+        "howToPerform": "<br>1. Lie on an incline bench with a dumbbell in each hand, palms facing away from you, and arms fully extended above your chest.<br>2. Lower the dumbbells to your upper chest by bending your elbows, keeping your wrists straight and elbows at a 45-degree angle to your body.<br>3. Press the dumbbells back up to the starting position by straightening your arms.<br>4. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "Dumbbells"
+      },
+      {
+        "name": "Decline Dumbbell Bench Press",
+        "primaryMuscle": "Chest",
+        "secondaryMuscle": "Triceps",
+        "description": "The decline dumbbell bench press targets the lower chest muscles while also engaging the triceps and shoulders. It is performed on a decline bench with the bench set to a downward angle.",
+        "howToPerform": "<br>1. Lie on a decline bench with a dumbbell in each hand, palms facing away from you, and arms fully extended above your chest.<br>2. Lower the dumbbells to your lower chest by bending your elbows, keeping your wrists straight and elbows at a 45-degree angle to your body.<br>3. Press the dumbbells back up to the starting position by straightening your arms.<br>4. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "Dumbbells"
+      },
+      {
+        "name": "Chest Flyes",
+        "primaryMuscle": "Chest",
+        "secondaryMuscle": "Shoulders",
+        "description": "Chest flyes are an isolation exercise that targets the chest muscles while also engaging the shoulders. They are performed using dumbbells or a cable machine.",
+        "howToPerform": "<br>1. Lie on a flat bench with a dumbbell in each hand, palms facing each other, and arms fully extended above your chest.<br>2. Lower the dumbbells to the sides in a wide arc, keeping a slight bend in your elbows.<br>3. Keep your elbows fixed in a slightly bent position throughout the movement.<br>4. Squeeze your chest muscles to bring the dumbbells back to the starting position.<br>5. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "Dumbbells"
+      },
+      {
+        "name": "Incline Chest Flyes",
+        "primaryMuscle": "Chest",
+        "secondaryMuscle": "Shoulders",
+        "description": "Incline chest flyes target the upper chest muscles while also engaging the shoulders. They are performed on an incline bench with the bench set to a 30-45 degree angle.",
+        "howToPerform": "<br>1. Lie on an incline bench with a dumbbell in each hand, palms facing each other, and arms fully extended above your chest.<br>2. Lower the dumbbells to the sides in a wide arc, keeping a slight bend in your elbows.<br>3. Keep your elbows fixed in a slightly bent position throughout the movement.<br>4. Squeeze your chest muscles to bring the dumbbells back to the starting position.<br>5. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "Dumbbells"
+      },
+      {
+        "name": "Bodyweight Squats",
+        "primaryMuscle": "Legs",
+        "secondaryMuscle": "Glutes",
+        "description": "Bodyweight squats are a fundamental lower body exercise that primarily targets the quadriceps, hamstrings, and glutes. They can be performed anywhere without any equipment and are great for building strength and endurance in the legs.",
+        "howToPerform": "<br>1. Stand with your feet shoulder-width apart, toes pointing slightly outward.<br>2. Lower your body down by bending your knees and pushing your hips back, keeping your chest up and core engaged.<br>3. Lower until your thighs are parallel to the ground, or as low as comfortable.<br>4. Push through your heels to return to the starting position.<br>5. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "No Equipment"
+      },
+      {
+        "name": "Lunges",
+        "primaryMuscle": "Legs",
+        "secondaryMuscle": "Glutes",
+        "description": "Lunges are a unilateral lower body exercise that targets the quadriceps, hamstrings, and glutes. They also engage the core for stability and balance. Lunges can be performed with or without weights and are effective for building leg strength and improving balance.",
+        "howToPerform": "<br>1. Stand with your feet hip-width apart, hands on your hips or holding dumbbells by your sides.<br>2. Take a large step forward with one foot and lower your body until both knees are bent at a 90-degree angle.<br>3. Keep your front knee aligned with your ankle and your back knee hovering just above the ground.<br>4. Push through your front heel to return to the starting position.<br>5. Repeat on the other side and continue alternating for the desired number of repetitions.",
+        "equipmentNeeded": "No Equipment"
+      },
+      {
+        "name": "Jump Squats",
+        "primaryMuscle": "Legs",
+        "secondaryMuscle": "Glutes",
+        "description": "Jump squats are a plyometric exercise that targets the quadriceps, hamstrings, and glutes while also improving explosive power and cardiovascular endurance. They can be performed without any equipment and are great for adding intensity to leg workouts.",
+        "howToPerform": "<br>1. Start in a squat position with your feet shoulder-width apart, knees bent, and hips back.<br>2. Explosively jump as high as you can, extending your legs and arms fully at the top of the jump.<br>3. Land softly back into the squat position, bending your knees and hips to absorb the impact.<br>4. Immediately repeat the movement for the desired number of repetitions.",
+        "equipmentNeeded": "No Equipment"
+      },
+      {
+        "name": "Bulgarian Split Squats",
+        "primaryMuscle": "Legs",
+        "secondaryMuscle": "Glutes",
+        "description": "Bulgarian split squats are a unilateral lower body exercise that targets the quadriceps, hamstrings, and glutes. They also engage the stabilizing muscles of the core and improve balance and coordination. Bulgarian split squats can be performed with bodyweight or weighted with dumbbells or a barbell.",
+        "howToPerform": "<br>1. Stand facing away from a bench or elevated surface with a dumbbell in each hand.<br>2. Place the top of one foot on the bench behind you, laces down.<br>3. Lower your body down by bending your front knee until your thigh is parallel to the ground.<br>4. Keep your front knee aligned with your ankle and your back knee hovering just above the ground.<br>5. Push through your front heel to return to the starting position.<br>6. Repeat for the desired number of repetitions on each leg.",
+        "equipmentNeeded": "Dumbbells"
+      },
+      {
+        "name": "Barbell Squats",
+        "primaryMuscle": "Legs",
+        "secondaryMuscle": "Glutes",
+        "description": "Barbell squats are a compound lower body exercise that targets the quadriceps, hamstrings, and glutes. They also engage the core and stabilizing muscles for balance and support. Barbell squats are a staple in strength training programs and can be performed with various stances and bar placements.",
+        "howToPerform": "<br>1. Stand with your feet shoulder-width apart, toes slightly turned out, and a barbell resting on your upper back (behind your neck) or across your shoulders (in a high bar position).<br>2. Keeping your chest up and core engaged, lower your body down by bending your knees and pushing your hips back.<br>3. Lower until your thighs are parallel to the ground, or as low as comfortable.<br>4. Push through your heels to return to the starting position.<br>5. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "Barbell / EZ-Bar"
+      },
+      {
+        "name": "Romanian Deadlifts",
+        "primaryMuscle": "Legs",
+        "secondaryMuscle": "Hamstrings",
+        "description": "Romanian deadlifts are a hinge movement that primarily targets the hamstrings and glutes while also engaging the lower back and core. They are performed with a barbell or dumbbells and are effective for building strength and muscle in the posterior chain.",
+        "howToPerform": "<br>1. Stand with your feet hip-width apart, holding a barbell in front of your thighs with an overhand grip, or holding dumbbells by your sides.<br>2. Hinge at your hips to push your hips back while maintaining a slight bend in your knees.<br>3. Lower the barbell or dumbbells towards the ground, keeping your back flat and chest up.<br>4. Lower until you feel a stretch in your hamstrings or your torso is parallel to the ground.<br>5. Engage your hamstrings and glutes to return to the starting position.<br>6. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "Barbell / EZ-Bar or Dumbbells"
+      },
+      {
+        "name": "Dumbbell Lunges",
+        "primaryMuscle": "Legs",
+        "secondaryMuscle": "Glutes",
+        "description": "Dumbbell lunges are a unilateral lower body exercise that targets the quadriceps, hamstrings, and glutes. They also engage the core for stability and balance. Dumbbell lunges can be performed with weights in each hand to increase resistance and challenge.",
+        "howToPerform": "<br>1. Stand with your feet hip-width apart, holding a dumbbell in each hand by your sides.<br>2. Take a large step forward with one foot and lower your body until both knees are bent at a 90-degree angle.<br>3. Keep your front knee aligned with your ankle and your back knee hovering just above the ground.<br>4. Push through your front heel to return to the starting position.<br>5. Repeat on the other side and continue alternating for the desired number of repetitions.",
+        "equipmentNeeded": "Dumbbells"
+      },
+      {
+        "name": "Dumbbell Step-Ups",
+        "primaryMuscle": "Legs",
+        "secondaryMuscle": "Glutes",
+        "description": "Dumbbell step-ups are a unilateral lower body exercise that targets the quadriceps, hamstrings, and glutes. They also engage the stabilizing muscles of the core and improve balance and coordination. Dumbbell step-ups can be performed with weights in each hand to increase resistance.",
+        "howToPerform": "<br>1. Stand facing a sturdy bench or elevated surface with a dumbbell in each hand by your sides.<br>2. Step onto the bench with one foot, driving through your heel to lift your body up.<br>3. Fully extend your hips and knee at the top of the movement.<br>4. Step down with the same foot and return to the starting position.<br>5. Repeat on the other side and continue alternating for the desired number of repetitions.",
+        "equipmentNeeded": "Dumbbells"
+      },
+      {
+        "name": "Barbell Deadlifts",
+        "primaryMuscle": "Legs",
+        "secondaryMuscle": "Hamstrings",
+        "description": "Barbell deadlifts are a compound lower body exercise that targets the hamstrings, glutes, lower back, and core. They are one of the most effective exercises for building overall strength and power. Barbell deadlifts can be performed with various grips and stances.",
+        "howToPerform": "<br>1. Stand with your feet shoulder-width apart, toes under the barbell.<br>2. Bend at your hips and knees to grip the barbell with hands shoulder-width apart, palms facing your body.<br>3. Brace your core, keep your chest up, and lift the bar by straightening your hips and knees.<br>4. Stand tall with the bar held close to your body, fully extending your hips and knees.<br>5. Lower the barbell back to the ground by bending at your hips and knees.<br>6. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "Barbell / EZ-Bar"
+      },
+      {
+        "name": "Goblet Squats",
+        "primaryMuscle": "Legs",
+        "secondaryMuscle": "Glutes",
+        "description": "Goblet squats are a squat variation that primarily targets the quadriceps, hamstrings, and glutes. They are performed with a single dumbbell or kettlebell held at chest level, which helps to counterbalance the movement and engage the core muscles.",
+        "howToPerform": "<br>1. Stand with your feet shoulder-width apart, holding a dumbbell or kettlebell with both hands at chest level.<br>2. Lower your body down by bending your knees and pushing your hips back, keeping your chest up and core engaged.<br>3. Lower until your thighs are parallel to the ground, or as low as comfortable.<br>4. Push through your heels to return to the starting position.<br>5. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "Dumbbells"
+      },
+      {
+        "name": "Bulgarian Split Squats",
+        "primaryMuscle": "Legs",
+        "secondaryMuscle": "Glutes",
+        "description": "Bulgarian split squats are a unilateral lower body exercise that targets the quadriceps, hamstrings, and glutes. They also engage the stabilizing muscles of the core and improve balance and coordination. Bulgarian split squats can be performed with bodyweight or weighted with dumbbells or a barbell.",
+        "howToPerform": "<br>1. Stand facing away from a bench or elevated surface with a dumbbell in each hand.<br>2. Place the top of one foot on the bench behind you, laces down.<br>3. Lower your body down by bending your front knee until your thigh is parallel to the ground.<br>4. Keep your front knee aligned with your ankle and your back knee hovering just above the ground.<br>5. Push through your front heel to return to the starting position.<br>6. Repeat for the desired number of repetitions on each leg.",
+        "equipmentNeeded": "Dumbbells"
+      },
+
+      {
+        "name": "Tricep Dips",
+        "primaryMuscle": "Arms",
+        "secondaryMuscle": "Shoulders, Chest",
+        "description": "Tricep dips are an effective bodyweight exercise for targeting the triceps. They also engage the shoulders and chest as stabilizing muscles.",
+        "howToPerform": "<br>1. Position yourself on parallel bars or a stable elevated surface with your arms fully extended and your body suspended in the air.<br>2. Lower your body by bending your elbows until your upper arms are parallel to the ground.<br>3. Push yourself back up to the starting position by straightening your arms.<br>4. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "No Equipment"
+      },
+     
+      {
+        "name": "Bodyweight Tricep Extensions",
+        "primaryMuscle": "Arms",
+        "secondaryMuscle": "Shoulders, Chest",
+        "description": "Bodyweight tricep extensions are a challenging exercise for the triceps. They also engage the shoulders and chest to stabilize the movement.",
+        "howToPerform": "<br>1. Stand facing away from a sturdy elevated surface, such as a bench or chair.<br>2. Place your hands on the surface shoulder-width apart, fingers facing forward.<br>3. Lower your body by bending your elbows until your upper arms are parallel to the ground.<br>4. Push yourself back up to the starting position by straightening your arms.<br>5. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "No Equipment"
+      },
+      {
+        "name": "Barbell Bicep Curls",
+        "primaryMuscle": "Arms",
+        "secondaryMuscle": "Forearms",
+        "description": "Barbell bicep curls are a classic strength-building exercise for the biceps. They also engage the forearms as stabilizing muscles.",
+        "howToPerform": "<br>1. Stand with your feet shoulder-width apart, holding a barbell with an underhand grip, arms fully extended.<br>2. Curl the barbell towards your shoulders by bending your elbows, keeping your upper arms stationary.<br>3. Squeeze your biceps at the top of the movement.<br>4. Slowly lower the barbell back to the starting position.<br>5. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "Barbell / EZ-Bar"
+      },
+      {
+        "name": "Barbell Skull Crushers",
+        "primaryMuscle": "Arms",
+        "secondaryMuscle": "Triceps, Shoulders",
+        "description": "Barbell skull crushers are a challenging exercise for the triceps. They also engage the shoulders as supporting muscles.",
+        "howToPerform": "<br>1. Lie flat on a bench with a barbell in your hands, arms fully extended above your chest.<br>2. Bend your elbows to lower the barbell towards your forehead, keeping your upper arms stationary.<br>3. Extend your elbows to lift the barbell back to the starting position.<br>4. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "Barbell / EZ-Bar"
+      },
+      {
+        "name": "Close-Grip Barbell Bench Press",
+        "primaryMuscle": "Arms",
+        "secondaryMuscle": "Chest, Shoulders",
+        "description": "Close-grip barbell bench press targets the triceps effectively. They also engage the chest and shoulders as stabilizing muscles.",
+        "howToPerform": "<br>1. Lie flat on a bench with a barbell in your hands, hands closer than shoulder-width apart.<br>2. Lower the barbell towards your chest by bending your elbows, keeping them close to your body.<br>3. Press the barbell back up to the starting position by straightening your arms.<br>4. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "Barbell / EZ-Bar"
+      },
+      {
+        "name": "Dumbbell Hammer Curls",
+        "primaryMuscle": "Arms",
+        "secondaryMuscle": "Forearms",
+        "description": "Dumbbell hammer curls target the biceps effectively. They also engage the forearms as stabilizing muscles.",
+        "howToPerform": "<br>1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand by your sides, palms facing your body.<br>2. Curl the dumbbells towards your shoulders, keeping your palms facing in throughout the movement.<br>3. Squeeze your biceps at the top of the movement.<br>4. Slowly lower the dumbbells back to the starting position.<br>5. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "Dumbbells"
+      },
+      {
+        "name": "Dumbbell Tricep Kickbacks",
+        "primaryMuscle": "Arms",
+        "secondaryMuscle": "Shoulders, Chest",
+        "description": "Dumbbell tricep kickbacks isolate the triceps effectively. They also engage the shoulders and chest to stabilize the movement.",
+        "howToPerform": "<br>1. Hold a dumbbell in each hand, hinge forward at the hips, and bend your elbows to bring the dumbbells towards your chest.<br>2. Extend your arms straight back, squeezing your triceps at the top of the movement.<br>3. Slowly lower the dumbbells back to the starting position.<br>4. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "Dumbbells"
+      },
+      {
+        "name": "Dumbbell Concentration Curls",
+        "primaryMuscle": "Arms",
+        "secondaryMuscle": "Forearms",
+        "description": "Dumbbell concentration curls target the biceps effectively. They also engage the forearms as stabilizing muscles.",
+        "howToPerform": "<br>1. Sit on a bench with your legs spread apart, holding a dumbbell in one hand, and rest your elbow on the inside of your thigh.<br>2. Curl the dumbbell towards your shoulder, keeping your upper arm stationary.<br>3. Squeeze your biceps at the top of the movement.<br>4. Slowly lower the dumbbell back to the starting position.<br>5. Repeat for the desired number of repetitions, then switch sides.",
+        "equipmentNeeded": "Dumbbells"
+      },
+      {
+        "name": "Preacher Curls",
+        "primaryMuscle": "Arms",
+        "secondaryMuscle": "Forearms",
+        "description": "Preacher curls target the biceps effectively. They also engage the forearms as stabilizing muscles.",
+        "howToPerform": "<br>1. Sit on a preacher bench with your upper arms resting on the pad and hold a barbell or EZ-bar with an underhand grip.<br>2. Curl the barbell towards your shoulders, keeping your upper arms stationary.<br>3. Squeeze your biceps at the top of the movement.<br>4. Slowly lower the barbell back to the starting position.<br>5. Repeat for the desired number of repetitions.",
+        "equipmentNeeded": "Barbell / EZ-Bar"
+      }
+    
+  ]
+  

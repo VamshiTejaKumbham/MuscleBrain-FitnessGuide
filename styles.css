@@ -1,0 +1,354 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    /* color: black; */
+}
+
+#WP-Name{
+    font-size: 2.2em;
+    font-family: "Truculenta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-variation-settings:
+     "wdth" 100;
+}
+#logo{
+    height: 59px;
+    border-radius: 35px; 
+    margin-right: 10px;
+}
+.navbar-brand{
+    display: flex;
+    flex-direction: row;
+    margin-right: 0;
+    margin-left: 11px;
+    align-items: center;
+
+}
+nav {
+    position:absolute;
+    top: 0;
+    right: 0;
+    /* font-size: ; */
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* flex-direction: row; */
+    margin-bottom: 0px;
+
+}
+
+nav li {
+    margin-right: 88px;
+
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 1.65em;
+}
+
+nav a:hover span {
+    display: inline;
+    /* color: #eeb29a; */
+    color: black;
+}
+nav a:hover i {
+    display: none;
+}
+nav a i{
+    color: black;
+}
+
+nav a span {
+    display: none;
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+li{
+    padding: 7.5px;
+}
+
+.material-symbols-outlined{
+    font-size: 2.3vw;
+    
+}
+#WP-Description{
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    /* font-style:italic; */
+    font-size: 1.1em;
+    text-align:center;
+    
+}
+#Workout-guide{
+    display: none;
+}
+.container{
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
+.search-bar{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.search-bar select{
+    font-size: 1.3em;
+    width: 250px;
+    border: 0;
+    border-radius: 2px;
+}
+.search-bar select:hover{
+    cursor: pointer;
+    text-shadow: 1px 1px 5px rgb(128, 117, 117);
+
+}
+
+#inp{
+    display: flex;
+    background-color: rgb(231, 228, 228);
+
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 18vw;
+    
+
+}
+#inp input{
+    background-color: rgb(231, 228, 228);
+}
+/* #inp input:{
+    border: 1px solid rgb(231, 228, 228);
+} */
+#inp i{
+    color: white;
+}
+
+.search-bar option{
+    font-size: 15px;
+}
+
+#ty1{
+    padding-left: 5px;
+}
+#hr{
+    width: 250px;
+}
+#Search{
+    padding: 20px;
+    width: 15vw;
+    height: 60px;
+    border: 0;
+    border-radius: 150px;
+    text-align: center;
+    font-size: 1.1em;
+}
+#Search:focus{
+    outline: 0;
+}
+#searchForm{
+    font-size: 1em;
+}
+#searchForm select:focus{
+    outline: 0;
+}
+#s-icon{
+    padding-left: 2vw;
+}
+
+#darkmode{
+    cursor: pointer;
+    color: gray;
+}
+
+.dark-mode{
+    background: #212529;
+    color: white;
+}
+.navbar.dark-mode .material-symbols-outlined {
+    color: white;
+}
+.navbar.dark-mode a span {
+    color: white;
+}
+.navbar.dark-mode .navbar-brand {
+    color: white;
+}
+.search-bar.dark-mode .container-fluid select{
+    background: #212529;
+    color: white;
+}
+.search-bar.dark-mode .container-fluid input{
+    background: white;
+    color: #212529;
+}
+
+.dark-mode .wb_sunny {
+color: orange !important;    
+}
+
+
+#results{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 2vw;
+    border-radius: 5px;
+    /* padding: 50px; */
+    padding-top: 2vw;
+    width: 80%;
+}
+
+#hr2{
+    width: 50px;
+}
+
+#jn:hover{
+    cursor: pointer;
+}
+
+.modal {
+    display: none; 
+    position: fixed; 
+    z-index: 1; 
+    width: 100%; 
+    height: 100%; 
+    overflow: auto; 
+    background-color: rgba(0,0,0,0.4); 
+    backdrop-filter: blur(3px);
+    z-index: 10;
+
+}
+
+.modal-content {
+    /* margin: 0; */
+    background-color: #fefefe;
+    margin: 7% auto; 
+    padding: 20px;
+    border: 1px solid #888;
+    width: 90%;
+    max-height: max-content;
+    color: black;
+}
+
+.close {
+    color: #aaa;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-right: 15px;
+}
+
+.close:hover, .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.modal form {
+    margin-bottom: 20px;
+}
+.modal label {
+    display: block;
+    margin-bottom: 5px;
+}
+.modal input[type="text"], .modal input[type="number"], .modal input[type="date"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.modal input[type="submit"] {
+    background-color: #212529;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.modal input[type="submit"]:hover {
+    background-color: #b9ada5;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 5;
+  }
+  .hidden {
+    display: none;
+  }
+
+@media (max-width: 768px) {
+    nav ul {
+      flex-direction: column; 
+      align-items: flex-start;
+    }
+    nav li {
+      margin-right: 0; 
+      margin-bottom: 10px; }
+    nav a {
+      font-size: 1.2em;
+    }
+    body{
+        box-sizing: border-box;
+    }
+  }
+  
+ 
+  @media (max-width: 576px) {
+    #WP-Name {
+      font-size: 1.8em; 
+    }
+    #logo {
+      height: 40px; }
+    #WP-Description {
+      font-size: 1em; 
+    }
+    .search-bar select {
+      width: 100%; 
+      margin-bottom: 10px; 
+    }
+    #inp {
+      width: 100%; 
+    }
+    #Search {
+      width: 100%; 
+      font-size: 1em; 
+    }
+  }
+  
+  
+  @media (min-width: 1200px) {
+    .container {
+      max-width: 1140px;
+      padding-left: 15px; 
+      padding-right: 15px; 
+    }
+  }
+  
+
+
+ 
