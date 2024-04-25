@@ -110,6 +110,7 @@ document.addEventListener("DOMContentLoaded", function () {
 function openModal() {
     var modal = document.getElementById('modal');
     modal.style.display = 'block';
+    document.style.overflow = 'none';
 }
 
 function closeModal() {
